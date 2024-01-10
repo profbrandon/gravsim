@@ -1,0 +1,26 @@
+
+
+* If gravitational acceleration is too small and distance from COM is too large, delete object from the map
+
+* Velocity panel
+
+* Trail Spacing as a function of velocity, i.e. lower velocity so more trail spacing, higher velocity gives
+  less trail spacing. (Smooth trails?)
+
+* Togglable grid lines
+
+* Select Planets via clicking on them
+
+* Fix sortEnabled problem
+
+* Cubic interpolation between trail points?
+
+* Saving Simulations
+
+* Playback
+
+* Arbitrary (not defined in code) simulations
+
+* Velocity/Acceleration Vectors
+
+* Remove self-relative data

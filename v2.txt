@@ -1,0 +1,21 @@
+
+- Groups
+  * Local groups
+    - Defined in a certain proximity to an object
+    - Can be hand picked
+  * Center of gravity reference frame
+    - Zero angular momentum reference frame
+- Simulation Saving
+- Load initial conditions
+- Simulation Playback
+- Running simulation without visuals
+- Graphs
+  * Mass distribution
+  * Radial distribution
+  * Energy
+  * Velocity
+  * Semi-major axis plot
+- Planet Trees
+- Collisions
+- 3D
+- Better Trails
